@@ -1,0 +1,31 @@
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe.config
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.pdb
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.AssemblyReference.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\MainWindow.g.cs
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\App.g.cs
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.lref
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\MainWindow.baml
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.g.resources
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie_Lab01.Properties.Resources.resources
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.GenerateResource.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.CoreCompileInputs.cache
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.exe
+D:\проекты\testirovanie\Testirovamie Lab01\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.pdb
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe.config
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.exe
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\bin\Debug\Testirovamie Lab01.pdb
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.AssemblyReference.cache
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.SuggestedBindingRedirects.cache
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\MainWindow.g.cs
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\App.g.cs
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.cache
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01_MarkupCompile.lref
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\MainWindow.baml
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.g.resources
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie_Lab01.Properties.Resources.resources
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.GenerateResource.cache
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.csproj.CoreCompileInputs.cache
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.exe
+C:\Users\stud\Desktop\Lab01_Treygolnik-master\Lab01_Treygolnik-master\Testirovamie Lab01\obj\Debug\Testirovamie Lab01.pdb
